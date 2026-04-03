@@ -6,7 +6,7 @@ A simple and efficient Python script that performs basic addition operations.
 * Fast calculation of two numbers.
 * Built using Python.
 * safe for kids 
-* made from the scratch so that its understood to the kids
+* made from the scratch so that its understandable 
 
 ## 🛠️ How to Run
 1. Make sure you have **Python** installed on your computer.
