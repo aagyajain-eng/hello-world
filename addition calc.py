@@ -1,4 +1,4 @@
 print ("WELCOME TO ADDITION CACULATOR")
-a = int(input("enter the first number you want to add: "))
-b = int(input("enter the second number you want to add: "))
+a = float(input("enter the first number you want to add: "))
+b = float(input("enter the second number you want to add: "))
 print ("Therefore, the answer is", a+b)
