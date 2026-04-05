@@ -2,11 +2,11 @@
 
 This script calculates the remainder of two numbers using the modulo operator. (Written for practice purpose)
 
-## Implementation
+## ✨Implementation
 The calculation is performed using the following logic:
 $$r = a \pmod{n}$$
 
-## Usage
+## 🖥️Usage
 1. Run the script: `python 2.1.2.py`
 2. Enter the **dividend** (the number to be divided).
 3. Enter the **divisor** (the number to divide by).
