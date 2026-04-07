@@ -30,7 +30,7 @@ The engine allows a user to select any text file, "by-hearts" the content into m
     * View your results!
 
 ## 📂 Project Structure
-* `main.py` - The primary Python script containing the logic engine.
+* `search engine.py` - The primary Python script containing the logic engine.
 * `data.txt` - A sample 5-page text file for testing the search capabilities.
 
 ## 🏁 Conclusion
